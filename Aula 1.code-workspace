@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\Aula 1"
+		},
+		{
+			"path": "..\\Aula 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aula 2",
+		"cSpell.words": [
+			"calcular",
+			"quilos"
+		]
+	}
+}

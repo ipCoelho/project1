@@ -1,0 +1,9 @@
+Aula 01 de Front-End
+
+PWFE: Programação Web Front-End
+
+O front end é processado no computador do usuário, 
+
+
+justify-content: -> centraliza verticalmente.
+align-items: -> centraliza os itens horizontalmente.
